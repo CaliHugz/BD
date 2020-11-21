@@ -1,0 +1,35 @@
+{
+	"buttonConfigs": {
+		"next": {
+			"small": true,
+			"big": true
+		},
+		"pauseplay": {
+			"small": true,
+			"big": true
+		},
+		"previous": {
+			"small": true,
+			"big": true
+		},
+		"repeat": {
+			"small": true,
+			"big": true
+		},
+		"share": {
+			"small": true,
+			"big": true
+		},
+		"shuffle": {
+			"small": true,
+			"big": true
+		},
+		"volume": {
+			"small": true,
+			"big": true
+		}
+	},
+	"settings": {
+		"addTimeline": true
+	}
+}

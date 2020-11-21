@@ -1,0 +1,31 @@
+{
+    "didShowIssueHelperPopup": true,
+    "currentVersionInfo": {
+        "version": "2.3.4",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "tabs": [
+            {
+                "name": "#general",
+                "url": "/channels/86004744966914048/86004744966914048",
+                "selected": true,
+                "iconUrl": "https://cdn.discordapp.com/icons/86004744966914048/292e7f6bfff2b71dfd13e508a859aedd.webp?size=128",
+                "channelId": "86004744966914048"
+            },
+            {
+                "name": "#calm zone",
+                "url": "/channels/@me/778617794102034432",
+                "selected": false,
+                "iconUrl": "",
+                "channelId": "778617794102034432"
+            }
+        ],
+        "favs": [],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showTabUnreadBadges": true,
+        "showFavUnreadBadges": true
+    }
+}

@@ -1,0 +1,17 @@
+{
+	"changeLogs": {
+		"BDFDB": "1.1.5",
+		"BadgesEverywhere": "1.6.3",
+		"CharCounter": "1.5.0",
+		"CreationDate": "1.4.0",
+		"EditUsers": "4.0.3",
+		"ImageUtilities": "4.2.0",
+		"JoinedAtDate": "1.2.5",
+		"ShowHiddenChannels": "2.8.7",
+		"ThemeSettings": "1.2.5"
+	},
+	"settings": {
+		"showSupportBadges": true,
+		"showToasts": true
+	}
+}
